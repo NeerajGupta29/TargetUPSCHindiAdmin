@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Target UPSC Hindi Admin</string>
+    <string-array name="PrepareFor">
+        <item>UPSC</item>
+        <item>UPPSC</item>
+        <item>SSC</item>
+        <item>UPSSSC</item>
+        <item>Others</item>
+    </string-array>
+</resources>
