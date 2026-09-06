@@ -1,82 +1,65 @@
 {
   "project_info": {
-    "project_number": "317031107852",
-    "firebase_url": "https://target-upsc-hindi.firebaseio.com",
-    "project_id": "target-upsc-hindi",
-    "storage_bucket": "target-upsc-hindi.appspot.com"
+    "project_number": "695029656992",
+    "firebase_url": "https://testdemo-57013.firebaseio.com",
+    "project_id": "testdemo-57013",
+    "storage_bucket": "testdemo-57013.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:317031107852:android:51b66ef56d9d490e6dcd29",
+        "mobilesdk_app_id": "1:695029656992:android:d88cb7fb2f9adab889c8c5",
         "android_client_info": {
-          "package_name": "target.upsc.hindi"
+          "package_name": "com.example.firebasetestdemo"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "317031107852-itb250ebldjmfgpcmg8vkm6j0jcmpv3s.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "target.upsc.hindi",
-            "certificate_hash": "a3efb057bd7499c532e46584b2a94837116da5dd"
-          }
-        },
-        {
-          "client_id": "317031107852-f3c2nk8412ns3l6o73p3cogha71slkpa.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCwNwPEFbbbGaANiKqj3COX6Ox4DV2mBh0"
+          "current_key": "AIzaSyAql_gWmLXxaOWkpFzXWXPn8sIgbAVWl8s"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "317031107852-f3c2nk8412ns3l6o73p3cogha71slkpa.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:317031107852:android:ae4241bbf41960c16dcd29",
+        "mobilesdk_app_id": "1:695029656992:android:28278df1a138878b89c8c5",
         "android_client_info": {
-          "package_name": "target.upsc.hindiadmin"
+          "package_name": "target.upsc.hindi"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "317031107852-79mkak5t10ekg6d53vhaf4l0g459vvoq.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "target.upsc.hindiadmin",
-            "certificate_hash": "a3efb057bd7499c532e46584b2a94837116da5dd"
-          }
-        },
-        {
-          "client_id": "317031107852-f3c2nk8412ns3l6o73p3cogha71slkpa.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCwNwPEFbbbGaANiKqj3COX6Ox4DV2mBh0"
+          "current_key": "AIzaSyAql_gWmLXxaOWkpFzXWXPn8sIgbAVWl8s"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "317031107852-f3c2nk8412ns3l6o73p3cogha71slkpa.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695029656992:android:d0e8f478a05caeaa89c8c5",
+        "android_client_info": {
+          "package_name": "target.upsc.hindiadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAql_gWmLXxaOWkpFzXWXPn8sIgbAVWl8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
         }
       }
     }
