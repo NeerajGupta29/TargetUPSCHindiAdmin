@@ -27,7 +27,7 @@
         <activity android:name=".AddVideo" />
         <activity android:name=".ChooseCategory" />
         <activity android:name=".AddNCG" />
-        <activity android:name=".AdminPanel">
+        <activity android:name=".AdminPanel" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
